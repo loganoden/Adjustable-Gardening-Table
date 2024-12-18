@@ -1,6 +1,6 @@
 % Adaptive Gardening Table Control Program
 % Hardware Interface: Arduino Mega 2560
-% Purpose: Control 4 DC motors for height adjustment of an adaptive gardening table prototype using two force-sensitive buttons
+% Purpose: Control 4 DC motors for height adjustment of a gardening table prototype using two force-sensitive buttons
 
 % Clear workspace and command window
 clear all;

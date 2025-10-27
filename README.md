@@ -1,3 +1,5 @@
+## Adjustable Gardening Table ##
+
 I collaborated in a team of four to design and prototype a motorized gardening table with adjustable height (up to 20 inches) to assist individuals with physical disabilities in small-scale gardening tasks. 
 We combined woodwork, CAD modeling, MATLAB programming, and hardware wiring to create a durable, ergonomic, and user-friendly structure.
 

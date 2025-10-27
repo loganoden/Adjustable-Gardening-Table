@@ -29,4 +29,4 @@ This project served as the **major semester-long design project** for ENGR 1182.
 ---
 
 ## 📄 License / Documentation
-See the [Technical Development Review (TDR)](link-to-TDR-if-available) for detailed design documentation and performance analysis.
+See the [Technical Development Review (TDR)]([link-to-TDR-if-availabl](https://www.linkedin.com/in/loganoden/details/projects/1357766174/multiple-media-viewer/?profileId=ACoAAEk3tvUBzFSyPvulUMOpkKif67_Ky68cYs8&treasuryMediaId=1715051503664)e) for detailed design documentation and performance analysis.
